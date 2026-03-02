@@ -13,11 +13,10 @@
 
 namespace FC\YellowMap\extend\Core;
 
-use OxidEsales\Eshop\Core\ViewConfig;
 use OxidEsales\EshopCommunity\Internal\Container\ContainerFactory;
 use OxidEsales\EshopCommunity\Internal\Framework\Module\Facade\ModuleSettingServiceInterface;
 
-class FcViewConfig extends ViewConfig
+class FcViewConfig extends FcViewConfig_parent
 {
     public function fcGetYMConfigApiKey()
     {
