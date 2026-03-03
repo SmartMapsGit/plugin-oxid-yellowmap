@@ -1,4 +1,4 @@
-# Plugin-oxid-yellowmap
+# Yellowmaps Plugin for OXID 7
 An Oxid eShop plugin to suggest address in forms
 
 ## Installation via composer
@@ -21,7 +21,7 @@ An Oxid eShop plugin to suggest address in forms
 
 - execute the following command in the shop base folder (where the composer.json file is located)
 ```
-composer require fatchip-gmbh/plugin-oxid-yellowmap:dev-main_OXID7 --update-no-dev
+composer require fatchip-gmbh/plugin-oxid-yellowmap ^2.0.0 --update-no-dev
 ```
 - activate the module after the composer install is finished
 ```
