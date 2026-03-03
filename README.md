@@ -1,4 +1,4 @@
-# Plugin-oxid-yellowmap
+# Yellowmaps Plugin for OXID 6
 An Oxid eShop plugin to suggest address in forms
 
 ## Installation via composer
