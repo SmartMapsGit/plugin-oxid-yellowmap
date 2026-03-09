@@ -1,6 +1,8 @@
 # Yellowmaps Plugin for OXID 7
 An Oxid eShop plugin to suggest address in forms
 
+:warning: For OXID 6 please use Branch main_OXID6.
+
 ## Installation via composer
 
 - In the composer.json file add a new repository
